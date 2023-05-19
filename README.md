@@ -1,4 +1,4 @@
-# KROS3-Mining-Reclamation
+# KROS3 - Mining Reclamation
 ## `Overview`
 Join the SSRS KROS3 - Mining Reclamation Research Project
 
