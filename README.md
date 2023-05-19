@@ -16,7 +16,8 @@ Join the SSRS KROS3 - Mining Reclamation Research Project
 * ![gem](https://img.shields.io/badge/PROJECT_2-Carbon_Stock-purple) ![gem](https://img.shields.io/badge/PUBLICATION-P2/P2-purple)
 
 ## `Progress`
-
+* [![Generic badge](https://img.shields.io/badge/PROJECT_1-ON_PROGRES-<COLOR>.svg)](https://shields.io/) ![](https://geps.dev/progress/30?dangerColor=800000&warningColor=ff9900&successColor=006600)  [![Generic badge](https://progress-bar.dev/30?title=P1&color=grey)](https://shields.io/) 
+* [![Generic badge](https://img.shields.io/badge/PROJECT_2-ON_PROGRES-<COLOR>.svg)](https://shields.io/) ![](https://geps.dev/progress/30?dangerColor=800000&warningColor=ff9900&successColor=006600)  [![Generic badge](https://progress-bar.dev/30?title=P2&color=grey)](https://shields.io/)
 
 
 ## `Publication`
