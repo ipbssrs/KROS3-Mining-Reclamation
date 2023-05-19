@@ -12,8 +12,8 @@ Join the SSRS KROS3 - Mining Reclamation Research Project
   - **Tarisa Hikmah Ameiliani**, _Department of Forest Management, Faculty of Forestry and Environment, IPB University_
   - **Fajar Raihan**, _Department of Silviculture, Faculty of Forestry and Environment, IPB University_
 ## `Project`
-
-
+* ![gem](https://img.shields.io/badge/PROJECT_1-Wetland-blue) ![gem](https://img.shields.io/badge/PUBLICATION-P1-blue)
+* ![gem](https://img.shields.io/badge/PROJECT_2-Carbon_Stock-purple) ![gem](https://img.shields.io/badge/PUBLICATION-P2/P2-purple)
 
 ## `Progress`
 
