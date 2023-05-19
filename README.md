@@ -3,7 +3,7 @@
 Join the SSRS KROS3 - Mining Reclamation Research Project
 
 ## `Supervisor`
-  - **Irdika Mansur**, _Department of Silviculture, Faculty of Forestry and Environment, IPB University_
+  - **Dr. Ir. Irdika Mansur, M.For.Sc**, _Department of Silviculture, Faculty of Forestry and Environment, IPB University_
 
 ## `Research Team`
   - **Rahmat Asy'Ari** (RO Coordinator), _Department of Forest Management, Faculty of Forestry and Environment, IPB University_
