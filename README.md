@@ -1,9 +1,10 @@
 # KROS3-Mining-Reclamation
+## `Overview`
 Join the SSRS KROS3 - Mining Reclamation Research Project
 
-## `Overview`
-
 ## `Research Team`
+  - **Rahmat Asy'Ari** (RO Coordinator), _Department of Forest Management, Faculty of Forestry and Environment, IPB University_
+    <br /> [![GitHub](https://img.shields.io/badge/GitHub-arihutan-darkgrey?style=flat&logo=github&logoColor=white)](https://github.com/arihutan/)  [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Rahmat-Asyari)  [![gem](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahmat-asy-ari-21b59a1bb/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](asyarihutan92@gmail.com)
 
 ## `Project`
 
